@@ -1,2 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_a71f50880c7de5dc75feaf640970b1f7689ee562/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_cca1fd468c78b3ecd697b06babc51e4f262a23d8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_dca38e1f4e431469ce28357e34d81caa3f85b9e4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a9620047cad169cfe3a2d0b41ff2da3fb0fa2d69">
+        <dex dex="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_90be1d3815fe10bac8ad0b1cd678617421acfb8b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_7bdf66a1a851376d9b3b8984989c86782e6d2114/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likuan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_02abe0586b6e1778cb8c12b1cf686f23625599ac/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_e9a3736346a36641a0381f2c5027b3445f55f2ea/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_84633e80060656583188882b664d36cbe574fe8f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b623271619a9fb81dc7a48ef082c3059b5d7a7e2">
+        <dex dex="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3b1454f58b2789dc7ad62ec0e4a684307d1be904/classes.dex" />
+    </item>
+    <item
+        jar="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/likuan/Desktop/CoorDinatorLayout/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_0393a51deb317385b61e66fe21d085aca9d723a4/classes.dex" />
+    </item>
+
+</items>

@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merge xmlns:android="http://schemas.android.com/apk/res/android"
+<com.test.git.coordinatorlayout.View.ViewParent xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Activity.MainActivity">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@mipmap/ic_launcher"
+            />
+    </FrameLayout>
     <Button
         android:id="@+id/bt_click"
         android:textSize="15dp"
-        android:text="点击开启动画"
+        android:text="分割线"
         android:layout_width="wrap_content"
         android:layout_height="50dp"
-        android:layout_gravity="center"
+        android:layout_marginTop="200dp"
+        android:layout_gravity="center_horizontal"
         />
-</merge>
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/mRecyclerView"
+        android:layout_marginTop="250dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </android.support.v7.widget.RecyclerView>
+</com.test.git.coordinatorlayout.View.ViewParent>
